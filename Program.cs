@@ -12,7 +12,7 @@ namespace ProGitForProgrammers
             Console.WriteLine("I just added this in the command line repo");
             Console.WriteLine("This line is to force a merge conflict from local");
             Console.WriteLine("This creates a conflict from remote");
-            Console.WriteLine("This line to force a third merge conflict");
+            Console.WriteLine("This line to force a fifth merge conflict");
         }
     }
 }
