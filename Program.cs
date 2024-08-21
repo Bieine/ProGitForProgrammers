@@ -10,6 +10,7 @@ namespace ProGitForProgrammers
             Console.WriteLine("Hello World!");
             Console.WriteLine("I just added this in Visual Studio");
             Console.WriteLine("I just added this in the command line repo");
+            Console.WriteLine("This line is to force a merge conflict from local")
             Console.WriteLine("This line to show the staging area");
         }
     }
